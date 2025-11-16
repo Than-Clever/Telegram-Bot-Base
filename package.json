@@ -10,7 +10,6 @@
         "@adiwajshing/baileys": "^5.0.0",
         "@octokit/rest": "latest",
         "axios": "^0.24.0",
-        "baileys": "github:Than-Clever/baileys",
         "chalk": "^4.1.2",
         "child_process": "^1.0.2",
         "crypto": "latest",
