@@ -26,7 +26,7 @@ module.exports = {
 
 ***
 
-### Commandd untuk menjalankan Bot di Termux
+### Command untuk menjalankan Bot di Termux
 
 ``` bash
 > pkg install
@@ -34,8 +34,8 @@ module.exports = {
 > pkg install git
 > pkg install ffmpeg && pkg install libwebp
 > pkg install nodejs
-> git clone https://github.com/Than-Clever/Simple-Base-Bot-WhatsApp
-> cd Simple-Base-Bot-WhatsApp
+> git clone https://github.com/Than-Clever/Telegram-Bot-Base
+> cd Telegram-Bot-Base
 > npm install
 > npm start
 ```
